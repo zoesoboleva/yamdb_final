@@ -79,7 +79,7 @@ GET `api/v1/titles/{title_id}/reviews/`: получить список всех 
     
     Пример ответа:
     {
-    "count": 0,
+    "count": 1,
     "next": null,
     "previous": null,
     "results": [
