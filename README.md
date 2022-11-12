@@ -82,7 +82,15 @@ GET `api/v1/titles/{title_id}/reviews/`: получить список всех 
     "count": 0,
     "next": null,
     "previous": null,
-    "results": []
+    "results": [
+        {
+            "id": 1,
+            "text": "Nice",
+            "author": "lover",
+            "score": 7,
+            "pub_date": "2022-11-12T09:47:25.698649Z"
+         }
+     ]
     }
 
 ## Автор
